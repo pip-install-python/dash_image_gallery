@@ -1,0 +1,11 @@
+include dash_image_gallery/dash_image_gallery.min.js
+include dash_image_gallery/dash_image_gallery.min.js.map
+include dash_image_gallery/async-*.js
+include dash_image_gallery/async-*.js.map
+include dash_image_gallery/*-shared.js
+include dash_image_gallery/*-shared.js.map
+include dash_image_gallery/metadata.json
+include dash_image_gallery/package-info.json
+include README.md
+include LICENSE
+include package.json
